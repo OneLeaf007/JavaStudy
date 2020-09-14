@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaStudy.iml" filepath="$PROJECT_DIR$/.idea/JavaStudy.iml" />
+      <module fileurl="file://F:/新建文件夹/ideaRep/javaStudy/javaStudy.iml" filepath="F:/新建文件夹/ideaRep/javaStudy/javaStudy.iml" />
+    </modules>
+  </component>
+</project>
